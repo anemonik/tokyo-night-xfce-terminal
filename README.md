@@ -23,4 +23,4 @@ sh install_night.sh
   2. Switch to the *Colors* tab
   3. Select `Nord` from the *Presets* drop-down menu
 
-<p align="center"> <img src="https://github.com/HexyHack/HexyHack/blob/main/logopfp.png?raw=true" width=16 height=16/> &copy; 2023 HexyHack</p>
+<p align="center">&copy; 2023 HexyHack</p>
