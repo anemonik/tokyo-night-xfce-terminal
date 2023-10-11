@@ -1,0 +1,3 @@
+Change in tokyo_night.theme the line:
+
+ColorBackground=#24283b

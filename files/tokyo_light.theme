@@ -1,0 +1,9 @@
+[Scheme]
+Name=Tokyo Light
+ColorCursor=#c0caf5
+ColorForeground=#343b58
+ColorBackground=#d5d6db
+TabActivityColor=#28344a
+ColorPalette=#0f0f14;#8c4351;#33635c;#8f5815;#34548a;#5a4a78;#0f4b6e;#343b58;#0f0f14;#8c4351;#33635c;#8f5815;#34548a;#5a4a78;#0f4b6e;#343b58
+ColorBold=#D8DEE9
+ColorBoldUseDefault=FALSE
