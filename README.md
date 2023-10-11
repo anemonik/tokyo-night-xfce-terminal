@@ -23,4 +23,7 @@ sh install_night.sh
   2. Switch to the *Colors* tab
   3. Select `Nord` from the *Presets* drop-down menu
 
+<br>
+<br>
+<br>
 <p align="center">&copy; 2023 HexyHack</p>
